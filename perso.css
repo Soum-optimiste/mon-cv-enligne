@@ -1,0 +1,75 @@
+
+
+h2{
+    font-size: 16px;
+}
+
+h1{
+   color: black;
+   font-size: 30px;
+   
+}
+
+body{
+background-color: (#FFF8DC);
+font-family: halant, cormorant upright;
+font-size: 16px;
+padding: 30px;
+margin: 25px;
+}
+
+#sectiontitre{  
+    text-align: center;
+    background-color:rgb(139, 201, 139);
+    padding-bottom: 5px;
+    padding-top: 5px;
+
+}
+
+.monImage{
+border-radius: 100px;
+
+}
+.liens_horizon li {
+display: inline;
+margin-right: 40px;
+
+}
+.section{
+    border-bottom: 2px rgb(192, 192, 178) solid; 
+    padding-bottom: 5px ;
+
+}
+a:hover{
+   text-decoration: underline; 
+   color:rgb(255, 8, 0);
+}
+.comptype{
+    text-decoration: underline solid rgb(192, 192, 178) ;
+    font-weight: bold;
+    
+    
+}
+.pied-de-page{
+    text-align: right;
+    font-style: italic;
+    text-decoration: underline;
+    color: rgb(131, 7, 7);
+}
+.calif{
+    text-decoration: underline solid rgb(192, 192, 178);
+    font-style: italic ;
+    font-weight: bold;
+    color: green;
+}
+ 
+.icon{
+    list-style-image : url(iconenoir.svg) ; 
+    
+}
+
+a{
+    color: blue;
+    
+}
+
